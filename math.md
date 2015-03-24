@@ -7,7 +7,7 @@ Per kastar två sexsidiga tärningar. Han studerar differensen mellan tärningar
 Hur stor är sannolikheten att differensen blir tre?
 
 
-### Försök själva
+### Försök själva.
 
 Börja med att forka det här projekt, hämta hem den och öppna den med ruby mine.
 
